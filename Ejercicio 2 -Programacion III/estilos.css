@@ -1,0 +1,43 @@
+p 
+    {
+    font-family: Arial; 
+    font-size: 15px;
+    background-color:Tomato;
+    }
+
+h1  {
+    font-family: Arial;
+    text-align: center;
+    text-decoration: double;
+    color: darkgoldenrod;
+    background-color:DodgerBlue
+    }
+
+h2  {
+    font-family: Arial;
+    text-align: center;
+    text-decoration: double;
+    color: darkslateblue;
+    
+    }
+
+h3  {
+    font-family: Arial;
+    text-align: center;
+    text-decoration: double;
+    color: dodgerblue;
+    
+    }
+
+.negro{
+    font-weight: bold;
+}
+
+#blanco{
+    text-align: right;
+}
+
+li{
+    font-family: sans-serif;
+    font-weight: bold;
+}
